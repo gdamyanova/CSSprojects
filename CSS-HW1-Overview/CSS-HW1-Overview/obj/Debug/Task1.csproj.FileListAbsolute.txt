@@ -1,0 +1,6 @@
+c:\users\grayscale\documents\visual studio 2013\Projects\CSS-HW1-Overview\CSS-HW1-Overview\bin\CSS-HW1-Overview.dll.config
+c:\users\grayscale\documents\visual studio 2013\Projects\CSS-HW1-Overview\CSS-HW1-Overview\bin\CSS-HW1-Overview.dll
+c:\users\grayscale\documents\visual studio 2013\Projects\CSS-HW1-Overview\CSS-HW1-Overview\bin\CSS-HW1-Overview.pdb
+c:\users\grayscale\documents\visual studio 2013\Projects\CSS-HW1-Overview\CSS-HW1-Overview\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+c:\users\grayscale\documents\visual studio 2013\Projects\CSS-HW1-Overview\CSS-HW1-Overview\obj\Debug\CSS-HW1-Overview.dll
+c:\users\grayscale\documents\visual studio 2013\Projects\CSS-HW1-Overview\CSS-HW1-Overview\obj\Debug\CSS-HW1-Overview.pdb

@@ -1,0 +1,6 @@
+c:\users\grayscale\documents\visual studio 2013\Projects\CSS-HW3-Layout\CSS-HW3-Layout\bin\CSS-HW3-Layout.dll.config
+c:\users\grayscale\documents\visual studio 2013\Projects\CSS-HW3-Layout\CSS-HW3-Layout\bin\CSS-HW3-Layout.dll
+c:\users\grayscale\documents\visual studio 2013\Projects\CSS-HW3-Layout\CSS-HW3-Layout\bin\CSS-HW3-Layout.pdb
+c:\users\grayscale\documents\visual studio 2013\Projects\CSS-HW3-Layout\CSS-HW3-Layout\obj\Debug\CSS-HW3-Layout.csprojResolveAssemblyReference.cache
+c:\users\grayscale\documents\visual studio 2013\Projects\CSS-HW3-Layout\CSS-HW3-Layout\obj\Debug\CSS-HW3-Layout.dll
+c:\users\grayscale\documents\visual studio 2013\Projects\CSS-HW3-Layout\CSS-HW3-Layout\obj\Debug\CSS-HW3-Layout.pdb

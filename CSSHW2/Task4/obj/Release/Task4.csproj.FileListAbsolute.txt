@@ -1,0 +1,5 @@
+c:\Users\grayscale\documents\visual studio 2013\Projects\CSSHW2\Task4\bin\Task4.dll.config
+c:\Users\grayscale\documents\visual studio 2013\Projects\CSSHW2\Task4\bin\Task4.dll
+c:\Users\grayscale\documents\visual studio 2013\Projects\CSSHW2\Task4\bin\Task4.pdb
+c:\Users\grayscale\documents\visual studio 2013\Projects\CSSHW2\Task4\obj\Release\Task4.dll
+c:\Users\grayscale\documents\visual studio 2013\Projects\CSSHW2\Task4\obj\Release\Task4.pdb

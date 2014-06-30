@@ -1,0 +1,12 @@
+c:\Users\grayscale\documents\visual studio 2013\Projects\CSSHW2\Task2\bin\Task2.dll.config
+c:\Users\grayscale\documents\visual studio 2013\Projects\CSSHW2\Task2\bin\Task2.dll
+c:\Users\grayscale\documents\visual studio 2013\Projects\CSSHW2\Task2\bin\Task2.pdb
+c:\Users\grayscale\documents\visual studio 2013\Projects\CSSHW2\Task2\obj\Release\Task2.csprojResolveAssemblyReference.cache
+c:\Users\grayscale\documents\visual studio 2013\Projects\CSSHW2\Task2\obj\Release\Task2.dll
+c:\Users\grayscale\documents\visual studio 2013\Projects\CSSHW2\Task2\obj\Release\Task2.pdb
+C:\Users\grayscale\Desktop\CSSHW2\Task2\bin\Task2.dll.config
+C:\Users\grayscale\Desktop\CSSHW2\Task2\bin\Task2.dll
+C:\Users\grayscale\Desktop\CSSHW2\Task2\bin\Task2.pdb
+C:\Users\grayscale\Desktop\CSSHW2\Task2\obj\Release\Task2.csprojResolveAssemblyReference.cache
+C:\Users\grayscale\Desktop\CSSHW2\Task2\obj\Release\Task2.dll
+C:\Users\grayscale\Desktop\CSSHW2\Task2\obj\Release\Task2.pdb

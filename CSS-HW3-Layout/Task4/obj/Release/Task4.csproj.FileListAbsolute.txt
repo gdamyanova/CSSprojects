@@ -1,0 +1,6 @@
+c:\users\grayscale\documents\visual studio 2013\Projects\CSS-HW3-Layout\Task4\bin\Task4.dll.config
+c:\users\grayscale\documents\visual studio 2013\Projects\CSS-HW3-Layout\Task4\bin\Task4.dll
+c:\users\grayscale\documents\visual studio 2013\Projects\CSS-HW3-Layout\Task4\bin\Task4.pdb
+c:\users\grayscale\documents\visual studio 2013\Projects\CSS-HW3-Layout\Task4\obj\Release\Task4.dll
+c:\users\grayscale\documents\visual studio 2013\Projects\CSS-HW3-Layout\Task4\obj\Release\Task4.pdb
+c:\users\grayscale\documents\visual studio 2013\Projects\CSS-HW3-Layout\Task4\obj\Release\Task4.csprojResolveAssemblyReference.cache

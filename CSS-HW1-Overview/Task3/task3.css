@@ -1,0 +1,59 @@
+﻿body {
+    background-color:#A9A9A9;
+ 
+}
+
+header {
+    color:#FAFAD2;
+    
+}
+
+a {
+    text-decoration:none;
+    color: black
+}
+
+ul{
+    list-style-type:none;
+    font-size:20px;
+    font-weight:bold;
+    text-align:center
+}
+
+li>a {
+    color:#FFFFFF;
+}
+
+ul a.current {
+    background-color:#D3D3D3
+}
+
+li:last-child
+{
+    color:#FFFFFF;
+    text-decoration:underline
+}
+
+body>header {
+    text-align:center;
+    font-size:20px
+    
+}
+
+article header {
+    font-size:22px;
+}
+
+p {
+    font-size: 18px;
+}
+
+footer>p {
+    font-size:15px;
+}
+
+body>footer:last-child {
+    text-align:center;
+    font-size:18px
+        
+}

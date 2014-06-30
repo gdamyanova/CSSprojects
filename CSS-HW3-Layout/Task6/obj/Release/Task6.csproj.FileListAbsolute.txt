@@ -1,0 +1,5 @@
+c:\users\grayscale\documents\visual studio 2013\Projects\CSS-HW3-Layout\Task6\bin\Task6.dll.config
+c:\users\grayscale\documents\visual studio 2013\Projects\CSS-HW3-Layout\Task6\bin\Task6.dll
+c:\users\grayscale\documents\visual studio 2013\Projects\CSS-HW3-Layout\Task6\bin\Task6.pdb
+c:\users\grayscale\documents\visual studio 2013\Projects\CSS-HW3-Layout\Task6\obj\Release\Task6.dll
+c:\users\grayscale\documents\visual studio 2013\Projects\CSS-HW3-Layout\Task6\obj\Release\Task6.pdb

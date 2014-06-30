@@ -1,0 +1,61 @@
+﻿body {
+    color:#E2E2E2;
+}
+
+table {
+    font-family: SansSerif, Arial, Calibri, Verdana;
+    font-size:18px; 
+    
+    width:495px;  
+    height:330px;  
+    background-color:#595959;
+    line-height:23px
+}
+
+#block{
+    vertical-align:bottom
+}
+
+td:first-child{
+    font-style:italic;
+    color: #E2E2E2;
+    font-weight:bold;
+    width:165px;
+}
+
+tr:first-child td{
+    font-style:initial;
+    color:#B9C1C3;
+    font-size:1.45em;
+    font-weight:initial;
+    vertical-align:bottom;
+    height:40px
+
+}
+
+.beige {
+    color:#E6DB9F;
+}
+
+.red {
+    color:#F60E23;
+    font-weight:bold;
+    vertical-align:super;
+    line-height:18px;
+
+        
+}
+
+.orange{
+    color:#DD6926;
+    font-weight:bold
+}
+
+.grey {
+    color:#B9C1C3;
+}
+
+#point {
+    width:0.8em
+}
+

@@ -1,0 +1,6 @@
+c:\users\grayscale\documents\visual studio 2013\Projects\CSS-HW3-Layout\Task2\bin\Task2.dll.config
+c:\users\grayscale\documents\visual studio 2013\Projects\CSS-HW3-Layout\Task2\bin\Task2.dll
+c:\users\grayscale\documents\visual studio 2013\Projects\CSS-HW3-Layout\Task2\bin\Task2.pdb
+c:\users\grayscale\documents\visual studio 2013\Projects\CSS-HW3-Layout\Task2\obj\Release\Task2.csprojResolveAssemblyReference.cache
+c:\users\grayscale\documents\visual studio 2013\Projects\CSS-HW3-Layout\Task2\obj\Release\Task2.dll
+c:\users\grayscale\documents\visual studio 2013\Projects\CSS-HW3-Layout\Task2\obj\Release\Task2.pdb

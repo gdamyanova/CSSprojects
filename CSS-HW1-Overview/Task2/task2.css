@@ -1,0 +1,62 @@
+﻿body {
+    font-size:12px;
+    font-family: Arial, Verdana;
+    font-weight: 600;
+}
+
+table {
+    width: 460px;
+    height: 144px;
+    color:#605950;
+    border: 1px solid #BBB99D;
+    border-spacing: 0;
+    vertical-align: middle;
+}
+
+th + th {
+    border-left: 1px solid #2A7A05;
+    box-shadow: -1px 0 0 #8EC16C;
+}
+
+th:last-child{
+    width:85px;
+}
+
+th, td { 
+    padding: 4px 6px;
+    text-align: left;
+    
+}
+
+td + td { 
+    border-left: 1px solid #BBB99D; 
+}
+
+.flag {
+    width:21px;
+    height:15px;
+    vertical-align:middle;
+    margin-right: 5px;
+}
+
+.green
+{
+height: 23px;
+color:#ECFFEA;
+background: -webkit-linear-gradient(0deg, #4EB106, #5EC306); /* For Safari 5.1 to 6.0 */
+background: -o-linear-gradient(0deg, #4EB106, #5EC306); /* For Opera 11.1 to 12.0 */
+background: -moz-linear-gradient(0deg, #4EB106, #5EC306); /* For Firefox 3.6 to 15 */
+background: linear-gradient(0deg, #4EB106, #5EC306); /* Standard syntax (must be last) */
+    
+}
+
+th {
+    font-weight:600;
+    border-bottom: 1px solid #2A7A05;
+    
+}
+
+tr:nth-child(2n+1) {
+    background-color:#ECECD8
+}
+
